@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "291433167963",
+    "firebase_url": "https://gym-app-ba70f.firebaseio.com",
+    "project_id": "gym-app-ba70f",
+    "storage_bucket": "gym-app-ba70f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291433167963:android:f0c7e5f0803ff227",
+        "android_client_info": {
+          "package_name": "br.com.pauloneto.gym_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291433167963-fra4nulrvqcj1ccc2obtgi1g1vc0bql0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFdVx5eslqS14W_eyh0oA8dArYXDSCTs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291433167963-fra4nulrvqcj1ccc2obtgi1g1vc0bql0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "291433167963-3d8rtebdlpf0hmupvmg649gluc6hb6u2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.pauloneto.gymApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
